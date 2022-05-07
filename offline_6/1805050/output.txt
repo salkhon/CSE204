@@ -1,0 +1,52 @@
+-----------------Execution start-------------------
+Mission Accomplished
+20 out of 20 pieces are collected
+0 collected 20 pieces
+1 collected 0 pieces
+2 collected 0 pieces
+--------------Execution end---------------
+
+-----------------Execution start-------------------
+Mission Accomplished
+20 out of 20 pieces are collected
+0 collected 4 pieces
+1 collected 16 pieces
+--------------Execution end---------------
+
+-----------------Execution start-------------------
+Mission Impossible
+12 out of 20 pieces are collected
+0 collected 12 pieces
+1 collected 0 pieces
+--------------Execution end---------------
+
+-----------------Execution start-------------------
+Mission Accomplished
+20 out of 20 pieces are collected
+0 collected 20 pieces
+1 collected 0 pieces
+2 collected 0 pieces
+--------------Execution end---------------
+
+-----------------Execution start-------------------
+Mission Accomplished
+20 out of 20 pieces are collected
+0 collected 20 pieces
+1 collected 0 pieces
+2 collected 0 pieces
+--------------Execution end---------------
+
+-----------------Execution start-------------------
+Mission Accomplished
+20 out of 20 pieces are collected
+0 collected 4 pieces
+1 collected 16 pieces
+--------------Execution end---------------
+
+-----------------Execution start-------------------
+Mission Impossible
+12 out of 20 pieces are collected
+0 collected 12 pieces
+1 collected 0 pieces
+--------------Execution end---------------
+

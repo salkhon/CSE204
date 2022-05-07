@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/2-1/CSE204 - (Sessional) Algorithms and Data Structure/offline5/heap.h
+iostream
+-
+vector
+-
+
+D:/2-1/CSE204 - (Sessional) Algorithms and Data Structure/offline5/main.cpp
+iostream
+-
+fstream
+-
+cstdio
+-
+queue
+-
+ctime
+-
+heap.h
+D:/2-1/CSE204 - (Sessional) Algorithms and Data Structure/offline5/heap.h
+

@@ -1,0 +1,1 @@
+cd "d:\2-1\CSE204 - (Sessional) Algorithms and Data Structure\offline7\" ; if ($?) { g++ -O2 -std=c++11 -Wall "-Wl,--stack=268435456" main.cpp -o main } ; if ($?) { .\main }
